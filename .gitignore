@@ -1,0 +1,17 @@
+# Python & Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+venv/
+.env
+
+# Backend specific
+backend/uploads/
+
+# Node
+node_modules/
+dist/
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
